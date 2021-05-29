@@ -10,13 +10,13 @@ The data from the ride summary by city type dataframe confirms what one would ex
 
 
 ### Summary DataFrame by City Type
-![PyBer Ride Summary DataFrame](https://github.com/cadejackson/PyBer_Analysis/blob/main/Resources/Ride%20Summary.png)
+![PyBer Ride Summary DataFrame](https://github.com/cadejackson/PyBer_Analysis/blob/main/Analysis/Ride%20Summary.png)
 
 ### Pivot Table by Week Filtered by Date Range
-![PyBer Pivot Table](https://github.com/cadejackson/PyBer_Analysis/blob/main/Resources/PyBer%20Pivot.png)
+![PyBer Pivot Table](https://github.com/cadejackson/PyBer_Analysis/blob/main/Analysis/PyBer%20Pivot.png)
 
 ### PyBer Resample by Week Line Chart
-![PyBer Line Chart](https://github.com/cadejackson/PyBer_Analysis/blob/main/Resources/Weekly%20Fares%20by%20City%20Type.png)
+![PyBer Line Chart](https://github.com/cadejackson/PyBer_Analysis/blob/main/Analysis/Weekly%20Fares%20by%20City%20Type.png)
 
 
 ## Business Recommendations
